@@ -7,7 +7,7 @@ pyramid(1,11,2,3)  #LIKE IN THE IMAGE BELOW
 
 the first cube is 1x1x1, the second is 3x3x3, the third is 5x5x5 etc.. till 11x11x11 
 ( so firstCube = 1 ; lastcube = 11 ; step = 2 and its a 3d cube [if its 2d : 11x11] so dimensionsNumber = 3 )
-
+git add schema.png
 **IMAGE** : http://data.france-ioi.org/Task/2d55d4c4e32160b3d02cdd30a1b40bf0/schema.png
 
 All image credits to www.france-ioi.org
